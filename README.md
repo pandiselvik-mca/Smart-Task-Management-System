@@ -49,5 +49,5 @@ Smart-Task-Management-System
 ![Weekly](images/weekly.png)
 
 ## Author
-
+Last Updated: 17 July 2026
 **Pandiselvi K**
