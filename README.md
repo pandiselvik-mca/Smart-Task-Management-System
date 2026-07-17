@@ -48,6 +48,7 @@ Smart-Task-Management-System
 ### Weekly Chart
 ![Weekly](images/weekly.png)
 
-## Author
 Last Updated: 17 July 2026
+## Author
+
 **Pandiselvi K**
